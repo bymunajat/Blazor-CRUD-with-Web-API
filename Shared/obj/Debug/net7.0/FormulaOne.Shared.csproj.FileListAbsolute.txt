@@ -1,0 +1,12 @@
+/home/bymunajat/mycode/blazor/FormulaOne/Shared/bin/Debug/net7.0/FormulaOne.Shared.deps.json
+/home/bymunajat/mycode/blazor/FormulaOne/Shared/bin/Debug/net7.0/FormulaOne.Shared.dll
+/home/bymunajat/mycode/blazor/FormulaOne/Shared/bin/Debug/net7.0/FormulaOne.Shared.pdb
+/home/bymunajat/mycode/blazor/FormulaOne/Shared/obj/Debug/net7.0/FormulaOne.Shared.csproj.AssemblyReference.cache
+/home/bymunajat/mycode/blazor/FormulaOne/Shared/obj/Debug/net7.0/FormulaOne.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/bymunajat/mycode/blazor/FormulaOne/Shared/obj/Debug/net7.0/FormulaOne.Shared.AssemblyInfoInputs.cache
+/home/bymunajat/mycode/blazor/FormulaOne/Shared/obj/Debug/net7.0/FormulaOne.Shared.AssemblyInfo.cs
+/home/bymunajat/mycode/blazor/FormulaOne/Shared/obj/Debug/net7.0/FormulaOne.Shared.csproj.CoreCompileInputs.cache
+/home/bymunajat/mycode/blazor/FormulaOne/Shared/obj/Debug/net7.0/FormulaOne.Shared.dll
+/home/bymunajat/mycode/blazor/FormulaOne/Shared/obj/Debug/net7.0/refint/FormulaOne.Shared.dll
+/home/bymunajat/mycode/blazor/FormulaOne/Shared/obj/Debug/net7.0/FormulaOne.Shared.pdb
+/home/bymunajat/mycode/blazor/FormulaOne/Shared/obj/Debug/net7.0/ref/FormulaOne.Shared.dll
