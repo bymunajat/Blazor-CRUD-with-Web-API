@@ -199,14 +199,14 @@
       "netstandard.dll": "sha256-2\/SuexPFW8hizUgbgPcchYHfG\/zmGzzMN6ESSyefPRQ=",
       "System.Private.CoreLib.dll": "sha256-mcywrbK0VZXiOvZ4dxU1ocaPZFplCRSIPQ\/wFikcrus=",
       "FormulaOne.Shared.dll": "sha256-Wfu2dG+t7TFyxSmIgkon50somC0FZbQS88FTdCF51bk=",
-      "FormulaOne.Client.dll": "sha256-TQ41AaHp2feOTfHzohiLFd02WYdgKuojCliFRUej4aQ="
+      "FormulaOne.Client.dll": "sha256-g\/OJM7EEGErIyqFpzylC\/H42z0hhgUmOVv\/ihSVCzCY="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "FormulaOne.Shared.pdb": "sha256-2XzxBrUaSFZt3oGE349nWsDREHoT\/W9rNYw9ohhVtQ0=",
-      "FormulaOne.Client.pdb": "sha256-QEYOOvQPXvOtQoUIGA0FqDakn68BwK5qvhcXOqMNRcQ="
+      "FormulaOne.Client.pdb": "sha256-VLMYwsfUZSpusErVhuvF0Yz\/5Xf7Wbbnp\/8oyImzbps="
     },
     "runtime": {
       "dotnet.7.0.3.ddvhylqxl7.js": "sha256-DxGvmbtUa6hGJpk3VyMEbkPZ653qWbQkh8X4ZVM9TWM=",
